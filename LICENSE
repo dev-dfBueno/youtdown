@@ -1,21 +1,25 @@
 MIT License
 
-Copyright (c) 2025 Bueno
+Copyright (c) 2025 Daniel Bueno
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software é fornecido o façam, sujeitas às seguintes condições:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. A cópia do Software ou partes substanciais dele devem conter a seguinte nota de copyright e esta lista de permissões, incluindo em todas as cópias ou partes substanciais do Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. O Software é fornecido "no estado em que se encontra", sem qualquer garantia expressa ou implícita, incluindo, mas não se limitando a garantias de comercialização, adequação a um determinado fim e não violação. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou outro, decorrente de, ou em conexão com, o Software ou o uso ou outros negócios no Software.
+
+3. Se você modificar ou distribuir o Software, deve garantir que os créditos sejam adequadamente atribuídos, ou seja, seu nome ou o nome de sua organização deve ser incluído em qualquer distribuição.
+
+
+
+MIT License
+
+Copyright (c) 2025 Daniel Bueno
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. Copies of the Software or substantial portions thereof must retain the following copyright notice and this permissions list, including in all copies or substantial portions of the Software.
+
+2. The Software is provided "as is", without any express or implied warranty, including, but not limited to, the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising out of or in connection with the Software or the use or other dealings in the Software.
+
+3. If you modify or distribute the Software, you must ensure that proper credit is given, i.e., your name or the name of your organization must be included with any distribution.
