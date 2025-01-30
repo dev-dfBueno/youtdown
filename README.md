@@ -49,3 +49,7 @@ Este projeto está licenciado sob a **MIT License**.
 
 
 
+
+![ytd](https://github.com/user-attachments/assets/65218855-486d-4ddd-8ebc-a43543eea4a9)
+
+
